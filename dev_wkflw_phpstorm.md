@@ -10,14 +10,14 @@ One of the most powerful tools available to PHP developers today is PhpStorm, th
 
  |  |  |
 :---|---:
-<kbd>Ctrl + Space</kbd>: | Invoke Code Completion
-<kbd>Alt + Enter</kbd>: | Suggest Correction
-<kbd>Ctrl + D</kbd>: | Duplicate Selection
-<kbd>Ctrl + G</kbd>: | Navigate to line
-<kbd>Ctrl + F</kbd>: | Find
-<kbd>Ctrl + R</kbd>: | Find and replace
-<kbd>Ctrl + Tab</kbd>: | Navigate open files
-<kbd>Ctrl + /</kbd>: | Comment or uncomment line
+<kbd>Ctrl + Space</kbd> | Invoke Code Completion
+<kbd>Alt + Enter</kbd> | Suggest Correction
+<kbd>Ctrl + D</kbd> | Duplicate Selection
+<kbd>Ctrl + G</kbd> | Navigate to line
+<kbd>Ctrl + F</kbd> | Find
+<kbd>Ctrl + R</kbd> | Find and replace
+<kbd>Ctrl + Tab</kbd> | Navigate open files
+<kbd>Ctrl + /</kbd> | Comment or uncomment line
 
 This is only a small section of the keybindings available in PhpStorm but they the ones I get the most use out of. 
 
